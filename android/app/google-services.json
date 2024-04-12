@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96826120955",
+    "project_id": "flat-data-cli",
+    "storage_bucket": "flat-data-cli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96826120955:android:63bc02480a186c90edae5e",
+        "android_client_info": {
+          "package_name": "com.example.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdifiLt_CB4wQPvrYddLrmSiHqwGpKFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
